@@ -18,8 +18,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: github
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=8HxUAH8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
