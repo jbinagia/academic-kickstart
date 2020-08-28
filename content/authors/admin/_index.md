@@ -8,18 +8,18 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Computational Fluid Mechanics
+  - Fluid Mechanics
+  - Computational Physics
   - Soft Matter
   - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: github
-    icon_pack: fab
+  - icon: academia
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=8HxUAH8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
