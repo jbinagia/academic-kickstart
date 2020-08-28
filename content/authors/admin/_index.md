@@ -29,15 +29,15 @@ social:
     link: https://github.com/jbinagia
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD Candidate in Chemical Engineering
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: ""
+    - course: MS in Chemical Engineering
+      institution: Stanford University
+      year: 2019
+    - course: BS in Chemical Engineering
+      institution: The University of Texas at Austin
+      year: 2016
 email: ""
 user_groups:
   - Researchers
