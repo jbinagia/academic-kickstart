@@ -11,8 +11,8 @@ authors:
 bio: ""
 interests:
   - Fluid Mechanics
-  - Computational Physics
   - Soft Matter
+  - Computational Physics
   - Machine Learning
 social:
   - icon: envelope
