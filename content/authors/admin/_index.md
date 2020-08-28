@@ -1,12 +1,13 @@
 ---
+title: Jeremy Binagia
+role: NSF Graduate Research Fellow
+avatar_filename: jer_headshot.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Jeremy Binagia
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
