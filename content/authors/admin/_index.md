@@ -1,7 +1,7 @@
 ---
 title: Jeremy Binagia
 role: NSF Graduate Research Fellow
-avatar_filename: jer_headshot.jpg
+avatar_filename: avatar.jpg.jpg
 organizations:
   - name: Stanford University
     url: ""
