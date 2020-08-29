@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card. small pictures. maybe not my favorite.
   #   5 = Showcase. kinda too big for me. flip rows if so though.
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
