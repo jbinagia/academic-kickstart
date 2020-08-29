@@ -8,6 +8,5 @@ featured = false
 publication = "*Chemical Engineering Science*"
 tags = ["Chemical processes", "Parallel", "Stochastic simulation", "Tau-leap", "stochastic simulation"]
 url_pdf = "http://linkinghub.elsevier.com/retrieve/pii/S0009250915004832"
-doi = "10.1016/j.ces.2015.06.066"
+# doi = "10.1016/j.ces.2015.06.066"
 +++
-

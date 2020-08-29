@@ -8,5 +8,5 @@ featured = false
 publication = "*Journal of Fluid Mechanics*"
 tags = ["micro-organism dynamics", "viscoelasticity"]
 url_pdf = "https://www.cambridge.org/core/product/identifier/S0022112020004565/type/journal_article"
-doi = "10.1017/jfm.2020.456"
+# doi = "10.1017/jfm.2020.456"
 +++
