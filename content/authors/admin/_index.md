@@ -24,6 +24,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jbinagia
+  - link: https://www.linkedin.com/in/jeremy-binagia/
+    icon_pack: fab
+    icon: linkedin
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jeremybinagia
