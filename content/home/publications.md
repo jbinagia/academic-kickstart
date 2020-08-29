@@ -35,9 +35,9 @@ subtitle = ""
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
-  #   3 = Card
+  #   3 = Card (prints the abstract) 
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
 
 [design.background]
   # Apply a background color, gradient, or image.
