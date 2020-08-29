@@ -40,7 +40,7 @@ subtitle = ""
   # Toggle between the various page layout types.
   #   1 = List. doesn't even show the images.
   #   2 = Compact
-  #   3 = Card. short pictures. maybe not my favorite.
+  #   3 = Card. small pictures. maybe not my favorite.
   #   5 = Showcase. kinda too big for me. flip rows if so though.
   view = 2
 
