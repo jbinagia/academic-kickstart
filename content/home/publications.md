@@ -36,8 +36,8 @@ subtitle = ""
   #   1 = List
   #   2 = Compact
   #   3 = Card (prints the abstract)
-  #   4 = Citation (publication only)
-  view = 4
+  #   4 = Citation (publication only). A bibliography.
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
