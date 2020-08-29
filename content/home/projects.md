@@ -41,8 +41,8 @@ subtitle = ""
   #   1 = List
   #   2 = Compact
   #   3 = Card. maybe not my favorite.
-  #   5 = Showcase
-  view = 5
+  #   5 = Showcase. kinda too big for me.
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
