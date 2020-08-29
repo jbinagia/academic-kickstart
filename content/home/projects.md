@@ -38,11 +38,11 @@ subtitle = ""
   columns = "1"
 
   # Toggle between the various page layout types.
-  #   1 = List
+  #   1 = List. doesn't even show the images.
   #   2 = Compact
-  #   3 = Card. maybe not my favorite.
-  #   5 = Showcase. kinda too big for me.
-  view = 1
+  #   3 = Card. short pictures. maybe not my favorite.
+  #   5 = Showcase. kinda too big for me. flip rows if so though.
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
