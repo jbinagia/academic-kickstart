@@ -30,7 +30,7 @@ subtitle = ""
     tag = "Thesis Research"
 
   [[content.filter_button]]
-    name = "Course Projects"
+    name = "Additional Work"
     tag = "Course Project"
 
 [design]
