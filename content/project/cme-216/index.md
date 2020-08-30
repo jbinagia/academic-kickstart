@@ -1,7 +1,7 @@
 +++
 date = "2020-08-28T22:46:16-07:00"
 draft = false
-title = "Using Reinforcement Learning to Train Smart Gyrotactic Particles"
+title = "Training Smart Gyrotactic Particles using Machine Learning"
 external_link = "https://github.com/jbinagia/cme216-final-project"
 tags = ["Course Project"]
 [image]
