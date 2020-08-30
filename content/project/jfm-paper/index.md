@@ -1,5 +1,5 @@
 ---
-title: How Swirling Flow Creates a Speed-up in Elastic Fluids
+title: "How Swirling Flow Increases Swimming Speeds in Elastic Fluids"
 # summary: An example of using the in-built project page.
 tags:
 - Thesis Research

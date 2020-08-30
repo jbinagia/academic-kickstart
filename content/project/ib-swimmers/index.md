@@ -4,6 +4,6 @@ title: "Immersed Boundary Simulations of Deformable Swimmers"  # Add a page titl
 draft: false
 date: "2020-08-29T00:00:00Z"  # Add today's date.
 # type: "widget_page"  # Page type is a Widget Page
-tag: "Thesis Research"
+tags:
+  - Thesis Research
 ---
-Just work
