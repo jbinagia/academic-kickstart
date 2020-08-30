@@ -5,5 +5,5 @@ title = "Analyzing and Predicting Treatment Effects for Schizophrenia Patients"
 external_link = "https://github.com/jbinagia/stats202-final-project"
 tags = ["Course Project"]
 [image]
-caption = "Photo by rawpixel on Unsplash"
+# caption = "Photo by rawpixel on Unsplash"
 +++
