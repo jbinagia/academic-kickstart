@@ -8,5 +8,6 @@ tags:
   - Thesis Research
 ---
 
-# Publications
+## Publications
+---
 {{< cite page="/publication/guido-2019" view="2" >}}
