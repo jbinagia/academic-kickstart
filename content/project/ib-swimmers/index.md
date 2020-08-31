@@ -9,7 +9,6 @@ tags:
 ---
 
 <br/><br/>
-<br/><br/>
 
 ## Publications
 {{< cite page="/publication/guido-2019" view="2" >}}
