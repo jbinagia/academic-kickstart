@@ -1,6 +1,6 @@
 ---
 title: "How Swirling Flow Increases Swimming Speeds in Elastic Fluids"
-# summary: An example of using the in-built project page.
+summary: An example of using the in-built project page.
 tags:
 - Thesis Research
 date: "2020-08-29T00:00:00Z"
