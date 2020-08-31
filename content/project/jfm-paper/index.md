@@ -30,8 +30,5 @@ date: "2020-08-29T00:00:00Z"
 # slides: example
 ---
 
-` `    
-` `
-
 ## Publications
 {{< cite page="/publication/binagia-2020" view="2" >}}
