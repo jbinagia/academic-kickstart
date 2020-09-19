@@ -1,5 +1,5 @@
 ---
-title: "How Swirling Flow Increases Swimming Speeds in Elastic Fluids"
+title: "The Impact of Azimuthal Flow on Swimming Dynamics in Elastic Fluids" #"How Swirling Flow Increases Swimming Speeds in Elastic Fluids"
 summary: " "  # Add a page description. Space to avoid printing out contents.
 tags:
 - Thesis Research
@@ -31,7 +31,7 @@ date: "2020-08-29T00:00:00Z"
 ---
 
 ` ` <!-- can also use <br/><br/> -->
-` `   
+` `
 
 ## Publications
 {{< cite page="/publication/binagia-2020" view="2" >}}
