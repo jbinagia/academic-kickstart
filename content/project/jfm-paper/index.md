@@ -9,7 +9,7 @@ date: "2020-08-29T00:00:00Z"
 # external_link: "https://jeremy-binagia.com/publication/binagia-2020/"
 
 image:
-  caption: Streamlines around our model swimming microorganism. This type of flow would be created for example by a swimming bacteria that moves via a rotating tail/body such as E. coli 
+  caption: Streamlines around our model of a swimming microorganism. This type of flow would be created for example by a swimming bacteria that moves via a rotating tail/body, such as E. coli.
   focal_point: Smart
 
 # links:
