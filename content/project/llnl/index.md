@@ -2,7 +2,7 @@
 title: "Modeling the Impact of Microstructure on Fluid Mixing at NIF"
 summary: "Sample summary here"  # Add a page description. Space to avoid printing out contents.
 tags:
-  - Course Project
+  - Additional Work
 date: "2020-09-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
