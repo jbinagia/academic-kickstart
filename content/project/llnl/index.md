@@ -7,9 +7,9 @@ date: "2020-09-19T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://jeremy-binagia.com/publication/binagia-2020/"
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-  # focal_point: Smart
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 # links:
 # - icon: twitter
