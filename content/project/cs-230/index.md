@@ -11,10 +11,10 @@ external_link = "https://github.com/jbinagia/CS-230-Final-Project"
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
-# [image]
+[image]
 # placement = 1.0
-# caption = "Photo by [Academic](https://sourcethemes.com/academic/)"
-# focal_point = "Center"
+  caption = "Image of the energy landscape corresponding to protein folding from Dill & MacCallum (2012) 'The Protein-Folding Problem, 50 Years On' Science 338 (6110)."
+  focal_point = "Smart"
 # preview_only = false
 # alt_text = "An optional description of the image for screen readers."
 +++
