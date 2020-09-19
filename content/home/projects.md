@@ -35,12 +35,12 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List. doesn't even show the images.
-  #   2 = Compact
-  #   3 = Card. small pictures. maybe not my favorite. getting kinda cramped.
+  #   2 = Compact. summaries make sense here.
+  #   3 = Card. small pictures. maybe not my favorite. getting kinda cramped. summaries would be a lot here.
   #   5 = Showcase. kinda too big for me. flip rows if so though.
   view = 2 # not 3
 
