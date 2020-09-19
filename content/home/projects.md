@@ -35,14 +35,14 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2" # 1 column looks weird since projects title doesn't align with publications
+  columns = "1" # 1 column looks weird since projects title doesn't align with publications
 
   # Toggle between the various page layout types.
   #   1 = List. doesn't even show the images. very boring!
   #   2 = Compact. summaries make sense here.
   #   3 = Card. small pictures. maybe not my favorite. getting kinda cramped. summaries would be a lot here.
   #   5 = Showcase. kinda too big for me. flip rows if so though.
-  view = 5 # not 3, 2, 1.
+  view = 3 # not 3, 2, 1.
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
