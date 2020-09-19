@@ -1,6 +1,6 @@
 ---
 title: "Modeling the Impact of Microstructure on Fluid Mixing at NIF"
-summary: " "  # Add a page description. Space to avoid printing out contents.
+summary: "Sample summary here"  # Add a page description. Space to avoid printing out contents.
 tags:
 date: "2020-09-19T00:00:00Z"
 
