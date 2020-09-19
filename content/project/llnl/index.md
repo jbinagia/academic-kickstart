@@ -17,8 +17,8 @@ date: "2020-09-19T00:00:00Z"
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # url_code: ""
-url_pdf: "files/end-of-summer-talk.pptx"
-url_slides: "files/end-of-summer-talk.pptx"
+# url_pdf: "files/end-of-summer-talk.pptx"
+url_slides: "files/binagia-2020-llnl-internship.pdf"
 # url_video: ""
 
 # Slides (optional).

@@ -40,9 +40,9 @@ subtitle = ""
   # Toggle between the various page layout types.
   #   1 = List. doesn't even show the images.
   #   2 = Compact
-  #   3 = Card. small pictures. maybe not my favorite.
+  #   3 = Card. small pictures. maybe not my favorite. getting kinda cramped.
   #   5 = Showcase. kinda too big for me. flip rows if so though.
-  view = 3
+  view = 2 # not 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
