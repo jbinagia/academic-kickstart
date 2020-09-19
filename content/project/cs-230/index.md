@@ -16,5 +16,5 @@ external_link = "https://github.com/jbinagia/CS-230-Final-Project"
   caption = "Image of the energy landscape corresponding to protein folding from Dill & MacCallum (2012) 'The Protein-Folding Problem, 50 Years On' Science 338 (6110)."
   focal_point = "Smart"
 # preview_only = false
-# alt_text = "An optional description of the image for screen readers."
+  alt_text = "An optional description of the image for screen readers."
 +++
