@@ -1,5 +1,5 @@
 ---
-title: "Modeling the Impact of Ablator Microstructure in Inertial Confinement Fusion"
+title: "Modeling Ablator Microstructure in Inertial Confinement Fusion Experiments"
 # summary: "Sample summary here"  # Add a page description. Space to avoid printing out contents.
 tags:
   - Additional Work
