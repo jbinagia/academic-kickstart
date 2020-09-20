@@ -6,6 +6,7 @@ light = true
 
 # Primary
 primary = "#7F91F5"
+# https://htmlcolorcodes.com/
 
 # Menu
 menu_primary = "#3f51b5" # 500
