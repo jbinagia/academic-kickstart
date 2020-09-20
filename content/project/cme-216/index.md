@@ -1,5 +1,5 @@
 +++
-date = "2020-08-28T22:46:16-07:00"
+date = "2020-06-20T22:46:16-07:00"
 draft = false
 title = "Using Machine Learning to Train Smart Gyrotactic Particles"
 url_code = "https://github.com/jbinagia/cme216-final-project"

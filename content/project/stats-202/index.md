@@ -5,5 +5,5 @@ title = "Analyzing and Predicting Treatment Effects for Schizophrenia Patients"
 url_code = "https://github.com/jbinagia/stats202-final-project"
 tags = ["Additional Work"]
 [image]
-  caption = "Photo by https://unsplash.com/@freestocks"
+  caption = "Photo by freestocks on Unsplash"
 +++

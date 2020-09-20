@@ -1,5 +1,5 @@
 +++
-date = "2020-08-28T22:46:16-07:00"
+date = "2019-12-12T22:46:16-07:00"
 draft = false
 title = "Efficient Sampling of Equilibrium States using Boltzmann Generators"
 tags = ["Additional Work"]
