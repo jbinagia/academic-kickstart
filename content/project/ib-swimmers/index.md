@@ -7,6 +7,7 @@ date: "2019-05-20T00:00:00Z"  # Add today's date.
 tags:
   - Thesis Research
 
+url_pdf: "https://pubs-rsc-org.stanford.idm.oclc.org/en/content/articlelanding/2019/sm/c8sm02518e#!divAbstract"
 
 image:
   caption: Snapshots at six points in time of a microorganism moving via amoeboid motion, simulated using the immersed boundary method.

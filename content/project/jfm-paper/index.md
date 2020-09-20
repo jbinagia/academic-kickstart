@@ -18,7 +18,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 # url_code: ""
-# url_pdf: ""
+url_pdf: "https://www-cambridge-org.stanford.idm.oclc.org/core/journals/journal-of-fluid-mechanics/article/swimming-with-swirl-in-a-viscoelastic-fluid/0EABD11C7FC817C4EDA19084575D23F4"
 # url_slides: ""
 # url_video: ""
 

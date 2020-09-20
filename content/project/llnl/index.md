@@ -1,5 +1,5 @@
 ---
-title: "Modeling the Impact of Microstructure in Inertial Confinement Fusion"
+title: "Modeling the Impact of Ablator Microstructure in Inertial Confinement Fusion"
 # summary: "Sample summary here"  # Add a page description. Space to avoid printing out contents.
 tags:
   - Additional Work
@@ -11,7 +11,7 @@ date: "2020-09-19T00:00:00Z"
 image:
   caption: "Visualization of the microstructure model we used to describe high density carbon ablators used in high-energy-density experiments such as those at the National Ignition Facility."
   focal_point: Smart
-  alt_text : "test what alt text is"
+  # alt_text : "test what alt text is"
 
 # links:
 # - icon: twitter
