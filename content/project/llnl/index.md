@@ -9,7 +9,7 @@ date: "2020-09-19T00:00:00Z"
 # external_link: "https://jeremy-binagia.com/publication/binagia-2020/"
 
 image:
-  caption: "Visualization of the microstructure model we used to describe high density carbon ablators used in high-energy-density experiments such as those at the National Ignition Facility."
+  caption: "Visualization of the microstructure model we used to capture the behavior high density carbon ablators used in inertial confinement fusion experiments such as those at the National Ignition Facility."
   focal_point: Smart
   # alt_text : "test what alt text is"
 
