@@ -5,7 +5,7 @@ title = "Efficient Sampling of Equilibrium States using Boltzmann Generators"
 tags = ["Additional Work"]
 # external_link = "https://github.com/jbinagia/CS-230-Final-Project"
 url_code = "https://github.com/jbinagia/CS-230-Final-Project"
-summary = "Discovering low energy states (e.g. the folded state of a protein) is a difficult task, owing to how rare these states are in all of configuration space. In this project, we used a neural network to convert a rugged energy landscapes into one that is easier to sample to enable exploration of these low energy states"
+summary = "Discovering low energy states (e.g. the folded state of a protein) is a difficult task, owing to how rare these states are in all of configuration space. In this project, we used a neural network to convert a rugged energy landscapes into one that is easier to sample to enable exploration of these low energy states."
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -19,3 +19,5 @@ summary = "Discovering low energy states (e.g. the folded state of a protein) is
 # preview_only = false
   # alt_text = "An optional description of the image for screen readers."
 +++
+
+Discovering low energy states (e.g. the folded state of a protein) is a difficult task, owing to how rare these states are in all of configuration space. In this project, we used a neural network to convert a rugged energy landscapes into one that is easier to sample to enable exploration of these low energy states.
