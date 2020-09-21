@@ -32,7 +32,7 @@ url_pdf: "https://www-cambridge-org.stanford.idm.oclc.org/core/journals/journal-
 Microorganisms must often navigate through biological fluids (e.g. biofilms) that are viscoelastic, meaning they behave both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow like E. coli will swim faster in elastic fluids.
 
 <!-- ` ` <!-- can also use <br/><br/> -->
-` `
+<!-- ` `
 ` ` -->
 <br/><br/>
 
