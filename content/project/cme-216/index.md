@@ -4,8 +4,8 @@ draft = false
 title = "Using Machine Learning to Train Smart Gravitactic Particles"
 url_code = "https://github.com/jbinagia/cme216-final-project"
 tags = ["Additional Work"]
-summary = "Recently there has been interest in understanding if artificial microswimmers can be designed such that they respond intelligentally to their environment, e.g. for navigation purposes such as targeted drug delivery. Here, I used reinforcement learning to enable a set of active particles to learn optimal strategies for navigating a complex flow in order to maximize their vertical ascent (so-called gravitaxis)."
+summary = "Recently there has been interest in understanding if artificial microswimmers can be designed that respond intelligentally to their environment, e.g. for navigation purposes such as targeted drug delivery. Here, I used reinforcement learning to enable a set of active particles to learn how to maximize their vertical ascent in a complex flow (so-called gravitaxis)."
 [image]
   caption = "Trajectories of a naive (orange) and smart particle (colored) that are trying to move upward in a complex flow field. While the naive particle simply always seeks to orient itself upward to move up against gravity, the smart particle learns a complex series of orientations (shown in the legend) that it should take in order to ascend much further."
 +++
-Recently there has been interest in understanding if artificial microswimmers can be designed such that they respond intelligentally to their environment, e.g. for navigation purposes such as targeted drug delivery. Here, I used reinforcement learning to enable a set of active particles to learn optimal strategies for navigating a complex flow in order to maximize their vertical ascent (so-called gravitaxis).
+Recently there has been interest in understanding if artificial microswimmers can be designed that respond intelligentally to their environment, e.g. for navigation purposes such as targeted drug delivery. Here, I used reinforcement learning to enable a set of active particles to learn how to maximize their vertical ascent in a complex flow (so-called gravitaxis).
