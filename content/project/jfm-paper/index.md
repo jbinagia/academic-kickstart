@@ -1,6 +1,6 @@
 ---
 title: "The Impact of Azimuthal Flow on Swimming Dynamics in Elastic Fluids" #"How Swirling Flow Increases Swimming Speeds in Elastic Fluids"
-summary: "Microorganisms must often navigate through biological fluids such as mucus or biofilms that are viscoelastic, meaning they behave at times both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow such as E. coli will swim faster in these types of elastic fluids."  # Add a page description. Space to avoid printing out contents.
+summary: "Microorganisms must often navigate through biological fluids (e.g. biofilms) that are viscoelastic, meaning they behave both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow such as E. coli will swim faster in elastic fluids."  # Add a page description. Space to avoid printing out contents.
 tags:
 - Thesis Research
 date: "2020-08-29T00:00:00Z"
@@ -29,9 +29,10 @@ url_pdf: "https://www-cambridge-org.stanford.idm.oclc.org/core/journals/journal-
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Microorganisms must often navigate through biological fluids such as mucus or biofilms that are viscoelastic, meaning they behave at times both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow such as E. coli will swim faster in these types of elastic fluids.
+Microorganisms must often navigate through biological fluids (e.g. biofilms) that are viscoelastic, meaning they behave both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow such as E. coli will swim faster in elastic fluids.
 
 ` ` <!-- can also use <br/><br/> -->
+` `
 ` `
 
 ## Publications
