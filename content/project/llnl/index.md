@@ -1,6 +1,6 @@
 ---
 title: "Modeling Ablator Microstructure in Inertial Confinement Fusion Experiments"
-# summary: "Sample summary here"  # Add a page description. Space to avoid printing out contents.
+summary: " "  # Add a page description. Space to avoid printing out contents.
 tags:
   - Additional Work
 date: "2020-09-19T00:00:00Z"
