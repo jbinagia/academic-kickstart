@@ -5,5 +5,5 @@ title = "Parallel Neural Network Training using Multiple GPUs"
 url_code = "https://github.com/jbinagia/cme213-final-project"
 tags = ["Additional Work"]
 [image]
-  caption = "Photo by lazycreekimages on Unsplash"
+  caption = "Photo by Harrison Broadbent on Unsplash"
 +++
