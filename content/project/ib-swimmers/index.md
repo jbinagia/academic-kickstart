@@ -14,9 +14,12 @@ image:
   focal_point: Smart
 ---
 
+Historically, numerical simulations of swimming microorganisms have been done in 2D with simplified models owing to the difficulty of resolving the complex three-dimensional transient motion of these organisms. Here, we use the immersed boundary method to perform the first fully-resolved 3D simulations of microswimmers and importantly, we show that in viscoelastic fluids the predictions of 2D and 3D models can differ quite substantially. 
 
-` ` <!-- can also use <br/><br/> -->
-` `
+<!-- ` ` <!-- can also use <br/><br/> -->
+<!-- ` `
+` ` -->
+<br/><br/>
 
 ## Publications
 {{< cite page="/publication/guido-2019" view="2" >}}
