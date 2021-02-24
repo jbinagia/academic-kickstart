@@ -39,3 +39,4 @@ Microorganisms must often navigate through biological fluids (e.g. biofilms) tha
 
 ## Publications
 {{< cite page="/publication/binagia-2020" view="2" >}}
+{{< cite page="/publication/housiadas-2021" view="2" >}}
