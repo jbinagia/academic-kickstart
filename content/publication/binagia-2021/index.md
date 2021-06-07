@@ -1,0 +1,12 @@
++++
+title = "Self-propulsion of a freely suspended swimmer by a swirling tail in a viscoelastic fluid"
+date = 2021-05-11 # reset to publication date
+authors = ["Jeremy P. Binagia","Eric S. G. Shaqfeh"]
+publication_types = ["2"]
+abstract = "Microscopic organisms must frequently swim through complex biofluids, including bacterial biofilms and the mucus lining of the upper respiratory tract. Recently, there has been great interest in understanding how the non-Newtonian behavior of the fluids, in particular fluid elasticity, can enable methods of self-propulsion that otherwise would not work in a Newtonian fluid. We present such a swimmer that consists of two spheres of unequal size that rotate in opposite directions. The swimmer is force- and torque-free and placed in an elastic fluid. Using a combination of analytical theory and numerical simulations, we show that this model swimmer, which has zero propulsion in a Newtonian fluid under Stokes flow, swims in the direction of the larger of the two spheres in an elastic fluid. We show that the speed of swimming increases nearly linearly with the Deborah number De or primary normal stress coefficient, Ψ_1, which is an appropriate measure of the elasticity of the fluid and for De ≤ 1 is also nearly linear in the concentration of polymer in the fluid. The dependence of the swim speed on the relative size of the two spheres is nonmonotonic, exhibiting a maximum at a size ratio of about 0.75. By analyzing the forces acting on the swimmer and the surrounding flow field, we find that propulsion is driven by thrust due to pressure applied along the swimmer. This thrust originates from flow advection driven by hoop stresses surrounding the faster-spinning smaller sphere. We compare our predictions to experimental measurements of swimming speeds for the bacterium E. coli, which swims via a rotating flagellar bundle and counterrotating body, and find that the speeds predicted by our analysis are remarkably close to the speed increase E. coli experiences in viscoelastic fluids. Finally, we conclude our work by showing how our analysis can be extended to different swimmer configurations and gaits, as long as the propulsion is driven by swirl alone."
+featured = false
+publication = "*Physical Review Fluids*"
+tags = ["microorganism dynamics", "viscoelasticity"]
+url_pdf = "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.053301"
+# doi = "10.1103/PhysRevFluids.6.053301"
++++
