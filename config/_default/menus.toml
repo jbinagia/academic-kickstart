@@ -26,6 +26,7 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "CV"
-   url = "files/binagia-cv-7-3-21.pdf"
+   name = "Resume"
+   # url = "files/binagia-cv-7-3-21.pdf"
+   url = "files/binagia-2pg-resume-9-26-21.pdf"
    weight = 70
