@@ -1,7 +1,7 @@
 ---
 title: Jeremy Binagia
 role: Applied Scientist
-avatar_filename: aiche-headshot-square-1.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Amazon Robotics
     url: ""
