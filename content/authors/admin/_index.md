@@ -1,18 +1,18 @@
 ---
 title: Jeremy Binagia
-role: NSF Graduate Research Fellow
-avatar_filename: avatar.jpg.jpg
+role: Applied Scientist
+avatar_filename: aiche-headshot-square-1.jpg
 organizations:
-  - name: Stanford University
+  - name: Amazon Robotics
     url: ""
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
-  - Fluid Mechanics
-  - Soft Matter
+  - Robotics
   - Scientific Computing
+  - Applied Mathematics
   - Machine Learning
 social:
   - icon: envelope
@@ -29,9 +29,9 @@ social:
     icon: linkedin
 education:
   courses:
-    - course: PhD Candidate in Chemical Engineering
+    - course: PhD in Chemical Engineering
       institution: Stanford University
-      year: ""
+      year: 2022
     - course: MS in Chemical Engineering
       institution: Stanford University
       year: 2019
@@ -43,4 +43,5 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm a PhD candidate in Chemical Engineering at Stanford studying fundamental questions at the intersection of physics and biology. Specifically, I study how microorganisms move through complex biofluids such as biofilms using computational fluid dynamics (CFD) and applied mathematics.
+I'm an Applied Scientist at Amazon Robotics, where I am helping create a [physics-based simulation tool](https://www.amazon.science/latest-news/at-amazon-robotics-simulation-gains-traction) for Amazon's robotic workcells. Prior to working at Amazon, 
+I completed my PhD at Stanford, where I studied fundamental problems at the intersection of physics and biology using computational fluid dynamics (CFD) and applied mathematics. I'm broadly interested in problems at the intersection of physics, computing, and simulation. 
