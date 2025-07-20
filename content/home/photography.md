@@ -31,7 +31,12 @@ caption = "Florence Cathedral"
 
 [[gallery_item]]
 album = "gallery"
-image = oneX_star_soft_method.jpg"
+image = "andromeda.jpg"
+caption = "Andromeda Galaxy"
+
+[[gallery_item]]
+album = "gallery"
+image = "oneX_star_soft_method.jpg"
 caption = "Horsehead Nebula"
 +++
 
