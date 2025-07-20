@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Thesis Research"
-    tag = "Thesis Research"
+    name = "Industry"
+    tag = "Industry"
 
   [[content.filter_button]]
-    name = "Additional Work"
-    tag = "Additional Work"
+    name = "PhD Research"
+    tag = "PhD Research"
+
+  [[content.filter_button]]
+    name = "Course projects"
+    tag = "Course projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

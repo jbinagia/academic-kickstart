@@ -1,7 +1,7 @@
 ---
 title: "Scalable real2sim: Physics-aware asset generation via robotic pick-and-place setups"
 summary: " "  # Add a page description. Space to avoid printing out contents.
-tags:
+tags: "Industry"
 date: "2025-03-01T00:00:00Z"
 
 image:
