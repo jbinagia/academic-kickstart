@@ -36,6 +36,11 @@ caption = "Andromeda Galaxy"
 
 [[gallery_item]]
 album = "gallery"
+image = "orion.jpg"
+caption = "Orion Nebula"
+
+[[gallery_item]]
+album = "gallery"
 image = "oneX_star_soft_method.jpg"
 caption = "Horsehead Nebula"
 +++
