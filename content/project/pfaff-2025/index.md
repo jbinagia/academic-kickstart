@@ -1,6 +1,6 @@
 ---
 title: "Scalable real2sim: Physics-aware asset generation via robotic pick-and-place setups"
-summary: " "  # Add a page description. Space to avoid printing out contents.
+summary: "Obtaining both visually and physically accurate assets for physics-based simulation can be an expensive, labor-intensive process. In this work, we propose an automated Real2Sim pipeline that generates simulation-ready assets through routine pick-and-place operations. In particular, the robot's joint torque sensors are used to infer the inertia of the manipulated object while an external camera combined with photometric reconstruction techniques (e.g. NeRF, Gaussian Splatting) reconstructs the visual appearance (mesh) of the object. This pipeline offers a route to scalable and efficient asset generation for robotics simulations."  # Add a page description. Space to avoid printing out contents.
 tags:
 date: "2025-03-01T00:00:00Z"
 
@@ -16,7 +16,7 @@ url_dataset: "https://mitprod-my.sharepoint.com/personal/nepfaff_mit_edu/_layout
 
 ---
 
-Obtaining both visually and physically accurate assets for physics-based simulation can be an expensive, labor-intensive process. In this work, we propose an automated Real2Sim pipeline that generates simulation-ready assets through routine pick-and-place operations. In particular, the robot's joint torque sensors are used to infer the inertia of the manipulated object while an external camera combined with photometric reconstruction techniques (e.g. NeRF, Gaussian Splatting) reconstructs the visual appearance (mesh) of the object. This pipeline offers a route to scalable and efficient asset generation for robotics simulations. 
+
 
 <br/><br/>
 
