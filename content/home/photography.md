@@ -21,13 +21,18 @@ caption = "Yasaka Pagoda in Kyoto"
 
 [[gallery_item]]
 album = "gallery"
+image = "IMG_3671-Enhanced-NR.jpg"
+caption = "D.T. Suzuki Museum"
+
+[[gallery_item]]
+album = "gallery"
 image = "1W3A3868.jpg"
 caption = "Florence Cathedral"
 
 [[gallery_item]]
 album = "gallery"
-image = "IMG_3671-Enhanced-NR.jpg"
-caption = "D.T. Suzuki Museum"
+image = oneX_star_soft_method.jpg"
+caption = "Horsehead Nebula"
 +++
 
 {{< gallery >}}
