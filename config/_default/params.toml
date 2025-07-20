@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "mr_robot" # minimal ~ ocean > forest. Not a fan of coffee. 
+theme = "minimal" # minimal ~ ocean > forest. Not a fan of coffee.  mr_robot is intense.
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jbinagia@amazon.com"
+email = "jeremybinagia@gmail.com"
 phone = ""
 
 # Address
