@@ -5,9 +5,8 @@ tags:
 date: "2025-03-01T00:00:00Z"
 
 image:
-  caption: "Objects are placed in the first bin, where the robot picks them up and reconstructs their geometries by moving them in front of a static camera while re-grasping to reduce occlusions. Next, the robot identifies the object's physical parameters by following a trajectory designed to be informative for the inertial parameters. Finally, it places the object into the second bin and repeats the process with the next object. The extracted geometric and physical parameters are combined to generate a complete, simulatable object description."
+  alt_text: "Objects are placed in the first bin, where the robot picks them up and reconstructs their geometries by moving them in front of a static camera while re-grasping to reduce occlusions. Next, the robot identifies the object's physical parameters by following a trajectory designed to be informative for the inertial parameters. Finally, it places the object into the second bin and repeats the process with the next object. The extracted geometric and physical parameters are combined to generate a complete, simulatable object description."
   focal_point: Smart
-  preview_only: true
 
 url_project: "https://scalable-real2sim.github.io/"
 url_preprint: "https://arxiv.org/abs/2503.00370"
