@@ -56,6 +56,21 @@ caption = "Orion Nebula"
 album = "astro"
 image = "oneX_star_soft_method.jpg"
 caption = "Horsehead Nebula"
+
+[[gallery_item]]
+album = "astro"
+image = "rosette-1x1.jpg"
+caption = "Rosette Nebula"
+
+[[gallery_item]]
+album = "astro"
+image = "pleidades-1x1.jpg"
+caption = "Pleiades"
+
+[[gallery_item]]
+album = "astro"
+image = "jellyfish.jpg"
+caption = "Jellyfish and Monkey Head Nebula"
 +++
 
 
