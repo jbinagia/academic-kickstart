@@ -2,7 +2,7 @@
 title: "Modeling Ablator Microstructure in Inertial Confinement Fusion Experiments"
 summary: " "  # Add a page description. Space to avoid printing out contents.
 tags:
-  - Additional Work
+  - Internship
 date: "2020-09-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

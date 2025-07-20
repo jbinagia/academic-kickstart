@@ -2,7 +2,7 @@
 title: "Creating a robotic swimmer to measure complex fluid properties"
 summary: " "
 tags:
-- Thesis Research
+- PhD Research
 date: "2022-06-28T00:00:00Z"
 
 image:

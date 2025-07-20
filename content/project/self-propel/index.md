@@ -3,7 +3,7 @@ title: "Designing Novel Artificial Microswimmers" #"How Swirling Flow Increases 
 summary: " "  # Add a page description. Space to avoid printing out contents.
 # summary: "Microorganisms must often navigate through biological fluids (e.g. biofilms) that are viscoelastic, meaning they behave both as a liquid and a solid. In this paper, we use computational fluid dynamics and theoretical analysis to explain why swimmers that create swirling flow like E. coli will swim faster in elastic fluids."  # Add a page description. Space to avoid printing out contents.
 tags:
-- Thesis Research
+- PhD Research
 date: "2021-05-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

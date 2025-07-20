@@ -3,7 +3,7 @@ date = "2020-06-20T22:46:16-07:00"
 draft = false
 title = "Using Machine Learning to Train Smart Gravitactic Particles"
 url_code = "https://github.com/jbinagia/cme216-final-project"
-tags = ["Additional Work"]
+tags = ["Course Projects"]
 summary = " "  # Add a page description. Space to avoid printing out contents.
 # summary = "Recently there has been interest in understanding if artificial microswimmers can be designed that respond intelligentally to their environment for navigation purposes such as targeted drug delivery. Here, I used reinforcement learning to teach a set of active particles how to maximize their vertical ascent in an otherwise complex flow (i.e. gravitaxis)."
 [image]
