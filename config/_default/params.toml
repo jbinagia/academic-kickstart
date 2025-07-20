@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal" # minimal ~ ocean > forest. Not a fan of coffee.  mr_robot is intense.
+theme = "earth" # minimal ~ ocean > forest. Not a fan of coffee.  mr_robot is intense.
 
 # Enable users to switch between day and night mode?
 day_night = true
