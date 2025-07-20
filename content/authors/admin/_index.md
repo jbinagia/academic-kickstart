@@ -46,4 +46,4 @@ user_groups:
 I'm an Applied Scientist at Amazon Robotics, where I am helping create a [physics-based simulation tool](https://www.amazon.science/latest-news/at-amazon-robotics-simulation-gains-traction) for Amazon's robotic workcells. Prior to working at Amazon, 
 I completed my PhD at Stanford, where I studied fundamental problems at the intersection of physics and biology using computational fluid dynamics (CFD) and applied mathematics. I'm broadly interested in problems at the intersection of physics, computing, and simulation. 
 
-In my free time, I enjoy photography, playing piano, and spending time with my two rescue dogs. 
+In my free time, I enjoy [photography](https://jeremy-binagia.com/photography/), playing piano, and spending time with my two rescue dogs. 

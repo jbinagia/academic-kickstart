@@ -18,6 +18,11 @@ caption = "Yasaka Pagoda in Kyoto"
 
 [[gallery_item]]
 album = "gallery"
+image = "IMG_2908.jpg"
+caption = "Kinkakuji (Golden Pavilion)"
+
+[[gallery_item]]
+album = "gallery"
 image = "IMG_3671-Enhanced-NR.jpg"
 caption = "D.T. Suzuki Museum"
 
