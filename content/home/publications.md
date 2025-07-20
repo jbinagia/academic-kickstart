@@ -31,6 +31,14 @@ subtitle = ""
     author = ""
     exclude_featured = false
 
+  [[content.filter_button]]
+  name = "Simulation"
+  tag = "Simulation"
+
+  [[content.filter_button]]
+  name = "Robotics"
+  tag = "Robotics"
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
