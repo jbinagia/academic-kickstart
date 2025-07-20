@@ -34,8 +34,8 @@ subtitle = ""
     tag = "PhD Research"
 
   [[content.filter_button]]
-    name = "Course projects"
-    tag = "Course projects"
+    name = "Course Projects"
+    tag = "Course Projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
