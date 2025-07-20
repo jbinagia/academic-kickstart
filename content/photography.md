@@ -7,7 +7,7 @@ draft = false
 
 # Gallery configuration
 [[gallery_item]]
-album = "gallery"
+album = "travel"
 image = "IMG_2743-Enhanced-NR-HDR-Edit-Edit-Edit-Edit.jpg"
 caption = "Arashiyama Bamboo Grove"
 
@@ -18,8 +18,19 @@ caption = "Yasaka Pagoda in Kyoto"
 
 [[gallery_item]]
 album = "travel"
+image = "IMG_3412.jpg"
+caption = "Fushimi Inari Shrine"
+
+
+[[gallery_item]]
+album = "travel"
 image = "IMG_2908.jpg"
 caption = "Kinkakuji (Golden Pavilion)"
+
+[[gallery_item]]
+album = "travel"
+image = "IMG_2966.jpg"
+caption = "Deer in Nara, Japan"
 
 [[gallery_item]]
 album = "travel"
