@@ -8,6 +8,6 @@ featured = false
 patent_office = "US"
 application_number = "18681312"
 url_pdf = "https://patents.google.com/patent/US20240353302A1/en"
-tags = ["rheometry", "viscoelasticity"]
+tags = ["microorganism dynamics", "viscoelasticity", "robotics", "rheology"]
 # publication = "US Patent App. 18/681,312, 2024"
 +++
