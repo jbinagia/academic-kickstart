@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear in (after projects)
 
 title = "Photography"
-subtitle = "A collection of my favorite shots"
+subtitle = "Recently I've become interested in photography, in particular travel photography and astrophotography. Some of my favorite images I've taken are shown here."
 
 # Gallery configuration
 [[gallery_item]]
@@ -18,6 +18,11 @@ caption = "Arashiyama Bamboo Grove"
 album = "gallery"
 image = "IMG_3203-Enhanced-NR-HDR.jpg"
 caption = "Yasaka Pagoda in Kyoto"
+
+[[gallery_item]]
+album = "gallery"
+image = "1W3A3868.jpg"
+caption = "Florence Cathedral"
 
 [[gallery_item]]
 album = "gallery"
