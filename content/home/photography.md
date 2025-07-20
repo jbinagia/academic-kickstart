@@ -8,6 +8,10 @@ weight = 100  # Order that this section will appear in (after projects)
 title = "Photography"
 subtitle = "Recently I've become interested in photography, in particular travel photography and astrophotography. Some of my favorite images I've taken are shown here."
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
 # Gallery configuration
 [[gallery_item]]
 album = "gallery"
