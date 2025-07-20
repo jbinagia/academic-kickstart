@@ -15,7 +15,6 @@ image = "IMG_2743-Enhanced-NR-HDR-Edit-Edit-Edit-Edit.jpg"
 caption = "Golden hour at the mountains"
 
 [[gallery_item]]
-album = "photography"
 image = "IMG_3203-Enhanced-NR-HDR.jpg"
 caption = "City lights reflection"
 
