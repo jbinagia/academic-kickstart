@@ -34,13 +34,23 @@ caption = "Deer in Nara, Japan"
 
 [[gallery_item]]
 album = "travel"
-image = "IMG_3671-Enhanced-NR.jpg"
+image = "sake-4x3.jpg"
+caption = "Sake barrels at Meiji Jingu Shrine"
+
+[[gallery_item]]
+album = "travel"
+image = "dt-3x2.jpg"
 caption = "D.T. Suzuki Museum"
 
 [[gallery_item]]
 album = "travel"
 image = "1W3A3868.jpg"
 caption = "Florence Cathedral"
+
+[[gallery_item]]
+album = "travel"
+image = "st-peter-4x3.jpg"
+caption = "St. Peter's Basilica"
 
 [[gallery_item]]
 album = "astro"
