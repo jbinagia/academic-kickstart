@@ -1,16 +1,9 @@
 +++
-# Photography Gallery section using the Blank widget and Gallery element (shortcode).
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear in (after projects)
-
 title = "Photography"
-subtitle = "Recently I've become interested in photography, in particular travel photography and astrophotography. Some of my favorite images I've taken are shown here."
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+subtitle = "Recently I've become interested in photography, in particular travel photography and astrophotography. Some of my favorite images I've taken are shown below."
+date = 2025-07-20T00:00:00Z
+lastmod = 2025-07-20T00:00:00Z
+draft = false
 
 # Gallery configuration
 [[gallery_item]]
@@ -49,4 +42,5 @@ image = "oneX_star_soft_method.jpg"
 caption = "Horsehead Nebula"
 +++
 
-{{< gallery >}}
+
+{{< gallery album="gallery" >}}
