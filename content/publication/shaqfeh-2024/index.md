@@ -7,6 +7,6 @@ abstract = "Improved rheometry is provided using an autonomous swimming robot th
 featured = false
 patent_office = "US"
 application_number = "18681312"
-url_pdf = "https://patents.google.com/patent/US18681312/en"
+url_pdf = "https://https://patents.google.com/patent/US20240353302A1/en"
 # publication = "US Patent App. 18/681,312, 2024"
 +++
