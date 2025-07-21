@@ -1,5 +1,5 @@
 +++
-title = "A Multi-Mode Mechanical Swimmer That Acts as a Rheometer"
+title = "A multi-mode mechanical swimmer that acts as a rheometer"
 date = 2024-10-24
 authors = ["Eric S.G. Shaqfeh", "Manu Prakash", "Laurel Kroo", "Jeremy Patrick Binagia"]
 publication_types = ["8"]

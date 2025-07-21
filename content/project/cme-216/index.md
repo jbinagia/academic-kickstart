@@ -1,7 +1,7 @@
 +++
 date = "2020-06-20T22:46:16-07:00"
 draft = false
-title = "Using Machine Learning to Train Smart Gravitactic Particles"
+title = "Using reinforcement learning to train smart gravitactic particles"
 url_code = "https://github.com/jbinagia/cme216-final-project"
 tags = ["Course Projects"]
 summary = " "  # Add a page description. Space to avoid printing out contents.

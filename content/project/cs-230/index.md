@@ -1,7 +1,7 @@
 +++
 date = "2019-12-12T22:46:16-07:00"
 draft = false
-title = "Efficient Sampling of Equilibrium States using Boltzmann Generators"
+title = "Efficient sampling of equilibrium states using Boltzmann generators"
 tags = ["Course Projects"]
 # external_link = "https://github.com/jbinagia/CS-230-Final-Project"
 url_code = "https://github.com/jbinagia/CS-230-Final-Project"

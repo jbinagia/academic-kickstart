@@ -1,5 +1,5 @@
 +++
-title = "On Speeding up Stochastic Simulations by Parallelization of Random Number Generation"
+title = "On speeding up stochastic simulations by parallelization of random number generation"
 date = 2015-01-01
 authors = ["Che-Chi Shu", "Vu Tran", "Jeremy Binagia", "Doraiswami Ramkrishna"]
 publication_types = ["2"]

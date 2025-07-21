@@ -1,5 +1,5 @@
 ---
-title: "Immersed Boundary Simulations of Deformable Swimmers"  # Add a page title.
+title: "Immersed boundary simulations of deformable swimmers"  # Add a page title.
 summary: " "  # Add a page description. Space to avoid printing out contents.
 draft: false
 date: "2019-05-20T00:00:00Z"  # Add today's date.

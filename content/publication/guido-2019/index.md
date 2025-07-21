@@ -1,5 +1,5 @@
 +++
-title = "Three-Dimensional Simulations of Undulatory and Amoeboid Swimmers in Viscoelastic Fluids"
+title = "Three-dimensional simulations of undulatory and amoeboid swimmers in viscoelastic fluids"
 date = 2019-01-01
 authors = ["Christopher John Guido", "Jeremy P. Binagia", "Eric S. G. Shaqfeh"]
 author_notes = ["Equal contribution", "Equal contribution"]

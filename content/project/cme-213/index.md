@@ -1,7 +1,7 @@
 +++
 date = "2020-04-01T22:46:16-07:00"
 draft = false
-title = "Parallel Neural Network Training using Multiple GPUs"
+title = "Parallel neural network training using multiple GPUs"
 url_code = "https://github.com/jbinagia/cme213-final-project"
 tags = ["Course Projects"]
 summary = " "
